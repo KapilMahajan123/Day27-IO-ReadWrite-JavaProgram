@@ -7,7 +7,17 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Kapil
+ *
+ */
 public class EmployeeMain {
+	
+	/**
+	 * Create and to read and write employee payroll to a console
+	 * @param args
+	 */
     public static void main(String[] args) {
         System.out.println("Welcome to File IO!");
 
